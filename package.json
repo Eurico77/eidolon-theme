@@ -1,0 +1,57 @@
+{
+  "name": "eidolon-theme",
+  "displayName": "Eidolon Theme",
+  "description": "Um tema baseado na paleta de cores sóbrias e minimalista.",
+  "version": "3.0.0",
+  "publisher": "Eurico Magalhães",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eidolon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-color-theme.json"
+      },
+      {
+        "label": "Eidolon Less Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-less-dark-theme.json"
+      },
+      {
+        "label": "Eidolon Alternative",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-alternativo-theme.json"
+      },
+      {
+        "label": "Eidolon Monochrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-mono-accent-theme.json"
+      },
+      {
+        "label": "Eidolon Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-minimalista-theme.json"
+      },
+      {
+        "label": "Eidolon Minimal Alt (JS Focus)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-min-alt-js-theme.json"
+      },
+      {
+        "label": "Eidolon Reverb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eidolon-reverb-theme.json"
+      },
+      {
+        "label": "Eidolon white",
+        "uiTheme": "hc-light",
+        "path": "./themes/eidolon-white-theme.json"
+      }
+    ]
+  }
+}
