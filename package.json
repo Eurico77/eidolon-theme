@@ -63,5 +63,9 @@
         "path": "./themes/eidolon-white-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eurico77/eidolon-theme"
   }
 }
