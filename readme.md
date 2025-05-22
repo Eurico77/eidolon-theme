@@ -6,7 +6,7 @@ Bem-vindo ao Pacote de Temas Eidolon para Visual Studio Code! Este conjunto de t
 
 ## Screenshots
 
-`![Eidolon Principal](images/image.png)`
+![Eidolon Principal](./images/image.png)
 
 ---
 
