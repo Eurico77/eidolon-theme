@@ -7,6 +7,16 @@
   "engines": {
     "vscode": "^1.0.0"
   },
+  "icon": "./images/index.png",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "eidolon",
+    "minimalist",
+    "javascript",
+    "react"
+  ],
   "categories": [
     "Themes"
   ],
